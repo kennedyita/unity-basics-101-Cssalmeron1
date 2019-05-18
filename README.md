@@ -10,4 +10,3 @@ To build an app with Unity, you first need to create a project. This project is 
   6. Ensure the 3D toggle is selected
   7. Select Create project
   8. Create a cube
-  9. 
